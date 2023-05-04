@@ -1,0 +1,313 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.47234109,43.76659499 ]
+    },
+    "properties": {
+    "Clinic Name":"PDS Diagnostic Imaging",
+    "Neighbourhood Name":"York Univeristy Heights"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.36276389,43.76901701 ]
+    },
+    "properties": {
+    "Clinic Name":"North York General Hospital - General Site",
+    "Neighbourhood Name":"Henry Farm"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.45009052,43.64026952 ]
+    },
+    "properties": {
+    "Clinic Name":"St. Joseph's Health Centre",
+    "Neighbourhood Name":"South Parkdale"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.4461146,43.64006903 ]
+    },
+    "properties": {
+    "Clinic Name":"Roncesvalles X-Ray & US",
+    "Neighbourhood Name":"Roncesvalles"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.32430614,43.69005043 ]
+    },
+    "properties": {
+    "Clinic Name":"Michael Garron Hospital",
+    "Neighbourhood Name":"Danforth East York"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.4109585,43.66570858 ]
+    },
+    "properties": {
+    "Clinic Name":"Annex Medical Imaging",
+    "Neighbourhood Name":"Annex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.43755142,43.75127658 ]
+    },
+    "properties": {
+    "Clinic Name":"OMI - Bathurst",
+    "Neighbourhood Name":"Clanton Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.40885515,43.65641735 ]
+    },
+    "properties": {
+    "Clinic Name":"College Diagnostic Imaging",
+    "Neighbourhood Name":"Palmerston-Little Italy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.38395276,43.64966596 ]
+    },
+    "properties": {
+    "Clinic Name":"The Toronto Centre for Medical Imaging",
+    "Neighbourhood Name":"Yonge-Bay Corridor"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.4446916,43.67737675 ]
+    },
+    "properties": {
+    "Clinic Name":"St. Clair Diagnostic Imaging",
+    "Neighbourhood Name":"Corso Italia-Davenport"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.3441979,43.67937682 ]
+    },
+    "properties": {
+    "Clinic Name":"Insight Diagnostic Imaging Corp. - Central Toronto Diagnostic Imaging",
+    "Neighbourhood Name":"Danforth"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.46349576,43.73115177 ]
+    },
+    "properties": {
+    "Clinic Name":"Carmit Diagnostic Imaging",
+    "Neighbourhood Name":"Downsview"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.30281421,43.68843956 ]
+    },
+    "properties": {
+    "Clinic Name":"Danforth/Main Breast Screening Centre",
+    "Neighbourhood Name":"East End-Danforth"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.39742939,43.6524227 ]
+    },
+    "properties": {
+    "Clinic Name":"Dragon City X-Ray and Ultrasound",
+    "Neighbourhood Name":"Kensington-Chinatown"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.40318347,43.65772212 ]
+    },
+    "properties": {
+    "Clinic Name":"Kensington Diagnostic Imaging Centre",
+    "Neighbourhood Name":"University"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.38627972,43.6557192 ]
+    },
+    "properties": {
+    "Clinic Name":"123 Edward Street Diagnostic Imaging Ltd.",
+    "Neighbourhood Name":"Yonge-Bay Corridor"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.34744311,43.77854834 ]
+    },
+    "properties": {
+    "Clinic Name":"Lighthouse Medical Imaging - Fairview",
+    "Neighbourhood Name":"Don Valley Village"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.39556319,43.69715793 ]
+    },
+    "properties": {
+    "Clinic Name":"True North Imaging - Midtown Diagnostic Imaging",
+    "Neighbourhood Name":"South Eglington-Davisville"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.38923819,43.65751353 ]
+    },
+    "properties": {
+    "Clinic Name":"Mount Sinai Hospital",
+    "Neighbourhood Name":"Kensington-Chinatown"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.39059086,43.65825142 ]
+    },
+    "properties": {
+    "Clinic Name":"University Health Network - Princess Margaret Cancer Centre",
+    "Neighbourhood Name":"Kensington-Chinatown"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.37788238,43.65379258 ]
+    },
+    "properties": {
+    "Clinic Name":"St. Michael's Hospital - CIBC Breast Centre - Donnelly Wing South",
+    "Neighbourhood Name":"Downtown Yonge East"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.37537571,43.72157254 ]
+    },
+    "properties": {
+    "Clinic Name":"Sunnybrook Health Sciences Centre",
+    "Neighbourhood Name":"Bridle Path-Sunnybrook-York Mills"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.38667429,43.66190803 ]
+    },
+    "properties": {
+    "Clinic Name":"Women's College Hospital",
+    "Neighbourhood Name":"Bay-Cloverhill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.35735123,43.67804517 ]
+    },
+    "properties": {
+    "Clinic Name":"Albany Medical Clinic",
+    "Neighbourhood Name":"Playter Estates-Danforth"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.48319697,43.64930793 ]
+    },
+    "properties": {
+    "Clinic Name":"West End Diagnostic Imaging",
+    "Neighbourhood Name":"High Park-Swansea"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.48781334,43.72428409 ]
+    },
+    "properties": {
+    "Clinic Name":"Humber River Hospital - Wilson Site",
+    "Neighbourhood Name":"Oakdale-Beverly Heights"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.37618832,43.67181024 ]
+    },
+    "properties": {
+    "Clinic Name":"Rosedale Radiology and Ultrasound",
+    "Neighbourhood Name":"North St.James Town"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.33647855,43.72389431 ]
+    },
+    "properties": {
+    "Clinic Name":"Insight Diagnostic Imaging - Don Mills",
+    "Neighbourhood Name":"Banbury-Don Mills"
+    }
+  }
+]
+}
